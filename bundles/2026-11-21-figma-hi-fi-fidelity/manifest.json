@@ -1,0 +1,26 @@
+{
+  "bundle": "figma-hi-fi-visual-parity",
+  "date": "2026-11-21",
+  "source": "https://www.figma.com/design/1lyrLGHubD9KHHevKfPW4g/93Kitchen-new?node-id=89-309",
+  "site": "https://93kitchen2.figma.site/#/home",
+  "main_repo": "raedzeidan/93Kitchen-new",
+  "main_commit": "863a2215b1feb09c4825ecd286bb68cba3801749",
+  "type": "changed-and-added-files",
+  "files": [
+    "src/site/app.ts",
+    "src/site/styles.css",
+    "assets/menu-atlas.jpg",
+    "assets/biryani-original.jpg",
+    "assets/sayadia-home.jpg",
+    "assets/white-pasta-home.jpg",
+    "assets/beef-potato-home.jpg",
+    "assets/review-sara.png",
+    "assets/review-ahmad.png",
+    "assets/review-lina.png"
+  ],
+  "original_frames": [
+    "89:309",
+    "159:309"
+  ],
+  "deployment_status": "github updated; Figma Make deployment not verified"
+}
